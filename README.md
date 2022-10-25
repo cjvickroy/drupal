@@ -52,6 +52,8 @@ Visit the [Support page][support] or browse [over a thousand Drupal
 providers][service providers] offering design, strategy, development, and
 hosting services.
 
+You can also visit the [community forums][Drupal forums] to get support, view announcements, or simply discuss ideas with other Drupal Users.
+
 ## Legal matters
 
 Know your rights when using Drupal by reading Drupal core's
@@ -61,6 +63,7 @@ Learn about the [Drupal trademark and logo policy here][trademark].
 
 [Drupal.org]: https://www.drupal.org
 [Drupal community]: https://www.drupal.org/community
+[Drupal forums]: https://www.drupal.org/forum
 [GitLab repository]: https://git.drupalcode.org/project/drupal
 [issue queue]: https://www.drupal.org/project/issues/drupal
 [issue forks]: https://www.drupal.org/drupalorg/docs/gitlab-integration/issue-forks-merge-requests
